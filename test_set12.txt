@@ -1,0 +1,12 @@
+airplane.png
+Barbara.png
+cameraman.png
+couple.png
+house.png
+lena.png
+man.png
+monarch.png
+parrot.png
+pepper.png
+ship.png
+starfish.png
